@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+#wishlist-table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+#wishlist-table th, #wishlist-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#wishlist-table th {
+    background-color: #f2f2f2;
+}
+
+#wishlist-table td img {
+    width: 50px;
+}
